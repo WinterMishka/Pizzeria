@@ -4,9 +4,10 @@
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?logo=selenium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Test_Framework-Pytest-yellow?logo=pytest&logoColor=black)
 ![Allure](https://img.shields.io/badge/Report-Allure-orange?logo=qameta&logoColor=white)
-[![Test Cases](https://img.shields.io/badge/Test_Cases-Google_Sheets-34A853?logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1c427Cyzc7HOqwZREkCWNmd2_LaoRjk2p9kz-hQneZYc/edit?usp=sharing)
 
 > **Проект по автоматизации пользовательских сценариев для интернет-магазина доставки пиццы.**
+>
+> 📄 **Тестовая документация:** [Google Sheets: Тест-кейсы](https://docs.google.com/spreadsheets/d/1c427Cyzc7HOqwZREkCWNmd2_LaoRjk2p9kz-hQneZYc/edit?usp=sharing)
 
 Основная задача — проверка критически важного функционала сайта с использованием **Python** и **Selenium WebDriver**.
 Тесты написаны с применением паттерна **Page Object** для удобства поддержки, масштабируемости и читаемости кода.
