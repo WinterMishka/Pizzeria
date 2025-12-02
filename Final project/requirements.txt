@@ -1,0 +1,6 @@
+pytest
+selenium
+selenium-wire
+webdriver-manager
+allure-pytest
+blinker==1.4
